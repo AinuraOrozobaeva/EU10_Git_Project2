@@ -4,5 +4,7 @@ public class Water {
 
 
         System.out.println("created class called water");
+
+        System.out.println("We are practicing Git and having fun");
     }
 }
